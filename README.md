@@ -86,3 +86,7 @@ For each pair of criteria, answer: *"How much more important is the left criteri
 ```
 
 Returns consistency info, criteria weights, and ranked alternatives.
+
+## Deployment
+
+The app was deployed on Render and can be accessed through this link : https://ahp-app-4r5z.onrender.com
